@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script|Roboto');
+
+.bad-script{
+    font-family: 'Bad Script', cursive;
+}
+
+.color{
+    color: black;
+}
+
+.scrolledNavbar{
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, .1);
+    background-color: rgba(213, 210, 241, 0.986) !important;
+    transition: 0.6s all;
+  }
